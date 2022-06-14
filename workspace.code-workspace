@@ -1,0 +1,161 @@
+{
+	"folders": [
+		{
+			"name": "roananplatt",
+			"path": "../../.."
+		},
+		{
+			"name": "run-buddy",
+			"path": "../run-buddy"
+		},
+		{
+			"name": "01-Wireframing",
+			"path": "../../../Downloads/01-Wireframing"
+		},
+		{
+			"name": "02-Flexbox-Layout",
+			"path": "../../../Downloads/02-Flexbox-Layout"
+		},
+		{
+			"name": "Git-Guide-2",
+			"path": "../../../Downloads/Git-Guide-2"
+		},
+		{
+			"name": "03-Responsive-Design",
+			"path": "../../../Downloads/03-Responsive-Design"
+		},
+		{
+			"name": "04-Pseudo-Classes",
+			"path": "../../../Downloads/04-Pseudo-Classes"
+		},
+		{
+			"name": "05-CSS-Variables",
+			"path": "../../../Downloads/05-CSS-Variables"
+		},
+		{
+			"name": "01-Conditional-Statements",
+			"path": "../../../Downloads/01-Conditional-Statements"
+		},
+		{
+			"name": "02-Iteration",
+			"path": "../../../Downloads/02-Iteration"
+		},
+		{
+			"name": "Git-Guide-3",
+			"path": "../../../Downloads/Git-Guide-3"
+		},
+		{
+			"name": "03-Functions",
+			"path": "../../../Downloads/03-Functions"
+		},
+		{
+			"name": "04-Scope",
+			"path": "../../../Downloads/04-Scope"
+		},
+		{
+			"name": "05-Object-This",
+			"path": "../../../Downloads/05-Object-This"
+		},
+		{
+			"name": "01-Create-Append",
+			"path": "../../../Downloads/01-Create-Append"
+		},
+		{
+			"name": "02-Event-Listeners",
+			"path": "../../../Downloads/02-Event-Listeners"
+		},
+		{
+			"name": "Git-Guide-4",
+			"path": "../../../Downloads/Git-Guide-4"
+		},
+		{
+			"name": "03-Timers-Intervals",
+			"path": "../../../Downloads/03-Timers-Intervals"
+		},
+		{
+			"name": "04-Data-Attributes",
+			"path": "../../../Downloads/04-Data-Attributes"
+		},
+		{
+			"name": "05-Local-Storage",
+			"path": "../../../Downloads/05-Local-Storage"
+		},
+		{
+			"name": "01-Click-Events",
+			"path": "../../../Downloads/01-Click-Events"
+		},
+		{
+			"name": "02-Event-Delegation",
+			"path": "../../../Downloads/02-Event-Delegation"
+		},
+		{
+			"name": "Git-Guide-5",
+			"path": "../../../Downloads/Git-Guide-5"
+		},
+		{
+			"name": "03-Bootstrap-Layout",
+			"path": "../../../Downloads/03-Bootstrap-Layout"
+		},
+		{
+			"name": "04-Bootstrap-Utilities",
+			"path": "../../../Downloads/04-Bootstrap-Utilities"
+		},
+		{
+			"name": "05-jQuery-UI",
+			"path": "../../../Downloads/05-jQuery-UI"
+		},
+		{
+			"name": "01-Create-Fetch",
+			"path": "../../../Downloads/01-Create-Fetch"
+		},
+		{
+			"name": "02-Parse-JSON",
+			"path": "../../../Downloads/02-Parse-JSON"
+		},
+		{
+			"name": "03-Demo-Dynamic",
+			"path": "../../../Downloads/03-Demo-Dynamic"
+		},
+		{
+			"name": "04-Deconstruct-Parameters",
+			"path": "../../../Downloads/04-Deconstruct-Parameters"
+		},
+		{
+			"name": "05-Fetch-GitHub-Issues",
+			"path": "../../../Downloads/05-Fetch-GitHub-Issues"
+		},
+		{
+			"name": "01-Arrow-Functions",
+			"path": "../../../Downloads/01-Arrow-Functions"
+		},
+		{
+			"name": "03-FS-Module",
+			"path": "../../../Downloads/03-FS-Module"
+		},
+		{
+			"name": "04-Functional-Loops",
+			"path": "../../../Downloads/04-Functional-Loops"
+		},
+		{
+			"name": "05-Destructuring-Assignment",
+			"path": "../../../Downloads/05-Destructuring-Assignment"
+		},
+		{
+			"path": "../../../Downloads/01-TDD"
+		},
+		{
+			"path": "../../../Downloads/02-Pass-Tests"
+		},
+		{
+			"path": "../../../Downloads/03-First-Mock"
+		},
+		{
+			"path": "../../../Downloads/04-Classes"
+		},
+		{
+			"path": "../../../Downloads/05-Multiple-Classes"
+		}
+	],
+	"settings": {
+	}
+}
